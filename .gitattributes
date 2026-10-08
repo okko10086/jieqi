@@ -1,0 +1,4 @@
+# 本仓库是一个纯前端工具，产品是可用的页面而非字体二进制。
+*.woff2           linguist-documentation
+*.html            linguist-documentation
+*.css             linguist-documentation
